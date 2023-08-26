@@ -1,0 +1,9 @@
+D:\Repos\原神，启动！\bin\Release\原神，启动！.exe.config
+D:\Repos\原神，启动！\bin\Release\原神，启动！.exe
+D:\Repos\原神，启动！\bin\Release\原神，启动！.pdb
+D:\Repos\原神，启动！\obj\Release\原神，启动！.csproj.AssemblyReference.cache
+D:\Repos\原神，启动！\obj\Release\原神_启动_.Properties.Resources.resources
+D:\Repos\原神，启动！\obj\Release\原神，启动！.csproj.GenerateResource.cache
+D:\Repos\原神，启动！\obj\Release\原神，启动！.csproj.CoreCompileInputs.cache
+D:\Repos\原神，启动！\obj\Release\原神，启动！.exe
+D:\Repos\原神，启动！\obj\Release\原神，启动！.pdb
