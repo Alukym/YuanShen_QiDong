@@ -34,6 +34,7 @@ namespace 原神_启动_
                     File.WriteAllText("config.txt", game_path);
                 }
                 else return;
+                ofd.Dispose();
             }
 
             while (true)
@@ -68,6 +69,8 @@ namespace 原神_启动_
                                 whiteBitsCount++;
                         }
                     }
+
+                    bmp.Dispose();
 
                     // Console.WriteLine($"{whiteBitsCount} {ScreenUtils.GetScreenSize(i).Width * ScreenUtils.GetScreenSize(i).Height * 0.9}");
 
